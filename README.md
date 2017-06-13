@@ -1,1 +1,3 @@
 # frontendpayme101
+
+BLAH BLAH, FEES PAID, ON TIME, CREDIT IS CLEAN
